@@ -13,24 +13,11 @@ Hi there 👋
 - 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
 - 📫 How to reach me: Email
 - 😄 Username: Badwolfunit
-- ⚡ Fun fact: learn more about cybersecurity & web 3 concepts 
-
-![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)
+- ⚡ Fun fact: learn more about cybersecurity & web 3 concepts
+  
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-
-
-<h2 align="center">Github stats ⚓</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{badwolfunit}/count.svg" alt="badwolfunit :: Visitor's Count" /></p>
-<h4 align="center">Top langs 🪐</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badwolfunit&langs_count=10&theme=tokyonight&layout=compact" alt="badwolfunit :: Top Langs" /></p>
-<h4 align="center">Profile stats 💪</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=badwolfunit&show_icons=true&theme=tokyonight" alt="badwolfunit :: Profile Stats" /></p>
 
 
 <!---line break---->
