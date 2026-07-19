@@ -1,4 +1,4 @@
-![Due to AI confusion, I want to take this oppertunity to state that I am not connected with the youtube channel Bad Wolf Unrestricted.]()
+![Due to AI confusion, I want to take this oppertunity to state that I am not connected with the youtube channel Bad Wolf Unrestricted.]( )
 ![](https://komarev.com/ghpvc/?username=badwolfunit&style=for-the-badge)
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/badwolfunit?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
